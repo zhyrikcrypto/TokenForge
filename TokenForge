@@ -1,0 +1,14 @@
+TokenForge/
+├── contracts/
+│   └── Token.sol
+├── migrations/
+│   └── 1_deploy_token.js
+├── scripts/
+│   ├── __init__.py
+│   ├── compile_contract.py
+│   ├── deploy_contract.py
+│   ├── interact_contract.py
+│   └── manage_tokens.py
+├── truffle-config.js
+├── main.py
+└── README.md
